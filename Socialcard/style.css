@@ -1,0 +1,65 @@
+h1,p{
+    padding: 0px;
+    margin: 0px;
+}
+.tomcook{
+    display: flex;
+    border-radius: 350px;
+    left: 400px;
+    width: 120px;
+}
+.par{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.div2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(29, 28, 28);
+    justify-content: center;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.reseau{
+    color: white;
+    background-color: rgb(58, 52, 52);
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    height: 300;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+    
+    
+}
+#cont{
+    margin-top: 50px;
+    margin-bottom: 50px;  
+}
+body{
+    background-color: black;
+    margin-bottom: 0px;
+    margin-top: auto;
+}
+#footer{
+    color: white;
+    position: absolute;
+    bottom: 5px;
+}
+#vert{
+    color: green;
+    margin-bottom: 20px;
+    word-spacing: 20px;
+}
+#par{
+    margin-bottom: 25px;
+}
